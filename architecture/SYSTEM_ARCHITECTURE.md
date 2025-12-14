@@ -9,6 +9,8 @@ It replaces human consulting workflows with computation.
 
 ## High-Level Flow
 
+![Full System Architecture — Inputs to Outputs](../diagrams/cac_full_system_architecture__inputs_to_outputs.png)
+
 **Input → Reasoning → Validation → Output**
 
 1. **Enterprise Inputs**
