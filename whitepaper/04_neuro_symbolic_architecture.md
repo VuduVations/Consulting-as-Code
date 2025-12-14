@@ -14,6 +14,8 @@ Code thinks.
 
 ## Why Separation Matters
 
+![Neuro-Symbolic Architecture — Trust Gap Resolution](../diagrams/cac_trust_gap__neuro_symbolic_solution.png)
+
 Human consultants blend:
 - Listening
 - Interpretation
