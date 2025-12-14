@@ -11,6 +11,8 @@ Where humans argue politically, agents argue logically.
 
 ## System Overview
 
+![Strategic Call Intelligence — 9 Discovery Agents](../diagrams/cac_sci_engine__9_agents_discovery.png)
+
 The engine consists of **15 autonomous agents**, divided into two layers:
 
 1. Strategic Call Intelligence (SCI) — 9 agents  
