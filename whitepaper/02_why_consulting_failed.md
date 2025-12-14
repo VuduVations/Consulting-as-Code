@@ -10,6 +10,8 @@ The environment outgrew their operating model.
 
 ## The Eight Structural Failure Modes
 
+![Traditional Consulting vs Consulting-as-Code](../diagrams/cac_traditional_vs_cac__analog_vs_compute.png)\
+
 ### 1. The Velocity Deficit
 Human-paced delivery cannot match machine-paced markets.
 
