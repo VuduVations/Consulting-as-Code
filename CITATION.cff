@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Consulting-as-Code™: The Autonomous Successor to the Consulting Industry"
+message: "If you reference this work, please cite it as below."
+type: report
+authors:
+  - family-names: Halverson
+    given-names: Sean
+    affiliation: VuduVations
+year: 2025
+publisher: VuduVations Research
+url: https://www.vuduvations.io
+license: CC-BY-NC-ND-4.0
