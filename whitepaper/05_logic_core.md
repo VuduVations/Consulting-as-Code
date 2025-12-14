@@ -12,6 +12,9 @@ This is replacement of function.
 
 ## What the Logic Core Does
 
+![Logic Core — Constraint, Math, Strategy](../diagrams/cac_logic_core__constraint_math_strategy.png)
+
+
 The Logic Core enforces **reality** across all strategic outputs.
 
 It ensures that every recommendation:
