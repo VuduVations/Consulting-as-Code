@@ -8,6 +8,8 @@ It is category transformation.
 
 ## The Shift
 
+![Consulting Economics — Category Transformation](../diagrams/cac_new_economics__category_transformation.png)
+
 Traditional consulting sells:
 - Intelligence for rent
 - Delivered by people
