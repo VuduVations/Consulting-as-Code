@@ -1,0 +1,36 @@
+site_name: Consulting-as-Code™
+site_description: Canonical whitepaper + architecture specification
+repo_url: https://github.com/VuduVations/Consulting-as-Code
+repo_name: VuduVations/Consulting-as-Code
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Whitepaper:
+      - 01 The Problem: whitepaper/01_the_problem.md
+      - 02 Why Consulting Failed: whitepaper/02_why_consulting_failed.md
+      - 03 Why LLMs Fail: whitepaper/03_why_llms_fail_at_strategy.md
+      - 04 Neuro-Symbolic Architecture: whitepaper/04_neuro_symbolic_architecture.md
+      - 05 Logic Core: whitepaper/05_logic_core.md
+      - 06 Multi-Agent Engine: whitepaper/06_multi_agent_engine.md
+      - 07 Parallel Reasoning: whitepaper/07_parallel_reasoning.md
+      - 08 Stress Testing Audits: whitepaper/08_stress_testing_audits.md
+      - 09 Evaluation Framework: whitepaper/09_evaluation_framework.md
+      - 10 Human Boundaries: whitepaper/10_human_boundaries.md
+      - 11 New Economics: whitepaper/11_new_economics.md
+      - 12 Future State: whitepaper/12_future_state.md
+  - Architecture:
+      - System Architecture: architecture/SYSTEM_ARCHITECTURE.md
+  - Meta:
+      - Glossary: meta/glossary.md
+  - Diagrams Index: diagrams/INDEX.md
