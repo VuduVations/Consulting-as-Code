@@ -2,17 +2,7 @@ site_name: Consulting-as-Code™
 site_description: Canonical whitepaper + architecture specification
 repo_url: https://github.com/VuduVations/Consulting-as-Code
 repo_name: VuduVations/Consulting-as-Code
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
+
 
 nav:
   - Home: index.md
