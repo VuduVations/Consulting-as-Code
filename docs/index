@@ -1,0 +1,10 @@
+# Consulting-as-Code™
+
+This is the canonical, versioned specification for Consulting-as-Code™.
+
+- Whitepaper lives under `/whitepaper`
+- Architecture under `/architecture`
+- Diagrams under `/diagrams`
+- Meta reference under `/meta`
+
+If you’re reading a PDF on the website, this repo is the **source of truth**.
