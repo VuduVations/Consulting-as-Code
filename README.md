@@ -1,6 +1,8 @@
 # Consulting-as-Code™
 ### The Autonomous Successor to the Consulting Industry
 
+Canonical spec: https://vuduvations.github.io/Consulting-as-Code/
+
 Consulting-as-Code™ (CaC) is a new operating model for strategy.
 
 It replaces labor-driven consulting — interviews, slide decks, partner reviews, and opinion arbitration — with a **deterministic, multi-agent reasoning system** that computes strategy directly from enterprise reality.
