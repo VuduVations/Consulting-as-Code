@@ -10,6 +10,8 @@ This is the single most decisive advantage over human consulting.
 
 ## Why Human Teams Are Sequential
 
+![Sequential vs Parallel Reasoning](../diagrams/cac_parallel_reasoning__sequential_vs_parallel.png)
+
 Human consulting teams are constrained by:
 - Meetings
 - Hand-offs
